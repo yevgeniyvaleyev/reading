@@ -7,8 +7,14 @@
 # Lifecyle
 - http://react.tips/how-to-use-react-component-lifecycle-methods/
 
+# Documentation
+- React-docgen https://github.com/reactjs/react-docgen
+- 
+
 # Redux
 - https://medium.com/@bjhytrek/understanding-react-redux-state-c95b88b890aa
+- for big apps https://medium.com/@davidtheclark/redux-for-state-management-in-large-web-apps-17b115a1b3
+- more insight https://medium.com/@holtkam2/react-redux-understanding-components-containers-actions-and-reducers-a2f9287bfb92
 
 # Deployment 
 - https://github.com/markerikson/react-redux-links/blob/master/react-deployment.md
