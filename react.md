@@ -9,7 +9,6 @@
 
 # Documentation
 - React-docgen https://github.com/reactjs/react-docgen
-- 
 
 # Redux
 - https://medium.com/@bjhytrek/understanding-react-redux-state-c95b88b890aa
