@@ -1,2 +1,0 @@
-- vanilla immutable https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/
-- redux https://redux.js.org/faq/immutable-data#benefits-of-immutability

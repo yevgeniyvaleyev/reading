@@ -1,3 +1,17 @@
+- [React](#react)
+  - [Unit testing](#unit-testing)
+  - [Validation](#validation)
+  - [Core](#core)
+  - [Lifecyle](#lifecyle)
+  - [Documentation](#documentation)
+  - [Redux](#redux)
+  - [Arch](#arch)
+  - [Deployment](#deployment)
+  - [Books](#books)
+  - [Best practices](#best-practices)
+- [Immutable](#immutable)
+- [Functional](#functional)
+
 # React
 
 ## Unit testing 
