@@ -13,19 +13,7 @@
 - http://react.tips/how-to-use-react-component-lifecycle-methods/
 
 ## Documentation
-- [React](#react)
-  - [Unit testing](#unit-testing)
-  - [Validation](#validation)
-  - [Core](#core)
-  - [Lifecyle](#lifecyle)
-  - [Documentation](#documentation)
-  - [Redux](#redux)
-  - [Arch](#arch)
-  - [Deployment](#deployment)
-  - [Books](#books)
-  - [Best practices](#best-practices)
-- [Immutable](#immutable)
-- [Functional](#functional)
+-React doc gen https://github.com/reactjs/react-docgen
 
 ## Redux
 - https://medium.com/@bjhytrek/understanding-react-redux-state-c95b88b890aa
