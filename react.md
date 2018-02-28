@@ -4,6 +4,9 @@
 # Validation
 - https://www.ian-thomas.net/custom-proptype-validation-with-react/
 
+# Core 
+- [X] https://reactjs.org/docs/reconciliation.html
+
 # Lifecyle
 - http://react.tips/how-to-use-react-component-lifecycle-methods/
 
