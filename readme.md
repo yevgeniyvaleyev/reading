@@ -50,6 +50,9 @@
 - https://www.tutorialspoint.com/reactjs/reactjs_best_practices.htm
 - https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
 
+# React Native
+- https://tadeuzagallo.com/blog/react-native-bridge/
+
 # Immutable
 
 - vanilla immutable https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/
