@@ -15,7 +15,7 @@
 # React
 
 ## Unit testing 
-- https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f
+- [x] https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f
 
 ## Validation
 - https://www.ian-thomas.net/custom-proptype-validation-with-react/
