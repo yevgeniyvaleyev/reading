@@ -18,10 +18,10 @@
 - https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f
 
 ## Validation
-- https://www.ian-thomas.net/custom-proptype-validation-with-react/
+[] https://www.ian-thomas.net/custom-proptype-validation-with-react/
 
 ## Core 
-- [X] https://reactjs.org/docs/reconciliation.html
+[X] https://reactjs.org/docs/reconciliation.html
 
 ## Lifecyle
 - http://react.tips/how-to-use-react-component-lifecycle-methods/
