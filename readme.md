@@ -55,6 +55,10 @@
 - native add integration https://facebook.github.io/react-native/docs/getting-started.html
 - section list https://facebook.github.io/react-native/docs/sectionlist.html
 - https://facebook.github.io/react-native/docs/components-and-apis.html#components-and-apis
+  - https://facebook.github.io/react-native/docs/activityindicator.html
+  - https://facebook.github.io/react-native/docs/picker.html
+  - https://facebook.github.io/react-native/docs/webview.html
+  - https://facebook.github.io/react-native/docs/modal.html
 
 # Immutable
 
