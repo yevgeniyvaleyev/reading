@@ -54,6 +54,7 @@
 - https://tadeuzagallo.com/blog/react-native-bridge/
 - native add integration https://facebook.github.io/react-native/docs/getting-started.html
 - section list https://facebook.github.io/react-native/docs/sectionlist.html
+- https://facebook.github.io/react-native/docs/components-and-apis.html#components-and-apis
 
 # Immutable
 
