@@ -61,6 +61,8 @@
   - [modal](https://facebook.github.io/react-native/docs/modal.html)
   - [asyncstorage](https://facebook.github.io/react-native/docs/asyncstorage.html)
 - https://reactarmory.com/answers/how-can-i-use-css-in-js-securely
+- [Understanding React Native flexbox layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4)
+- [Platform Specific Code](https://facebook.github.io/react-native/docs/platform-specific-code.html)
 
 # Immutable
 
