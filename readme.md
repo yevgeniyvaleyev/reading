@@ -64,6 +64,7 @@
 - [Understanding React Native flexbox layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4)
 - [Platform Specific Code](https://facebook.github.io/react-native/docs/platform-specific-code.html)
 - [stack navigarion, medium.com](https://medium.com/@swathylenjini/stack-navigation-in-react-native-2cd00374ff3a)
+- [Expo location](https://docs.expo.io/versions/latest/sdk/location.html)
 
 # Immutable
 
