@@ -80,4 +80,6 @@
 - HOC https://eloquentjavascript.net/05_higher_order.html
 - pure fn https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976
 
+# Other to check
+- http://thefullstack.xyz/full-stack-javascript-developer/
 
