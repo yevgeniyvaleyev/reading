@@ -67,7 +67,7 @@
 - [stack navigarion, medium.com](https://medium.com/@swathylenjini/stack-navigation-in-react-native-2cd00374ff3a)
 - [Expo location](https://docs.expo.io/versions/latest/sdk/location.html)
 - Publishing
-  - [android](https://support.google.com/googleplay/android-developer/answer/113469?hl=en)
+  - [X] [android](https://support.google.com/googleplay/android-developer/answer/113469?hl=en)
   - [ios](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/UploadingBinariesforanApp.html#//apple_ref/doc/uid/TP40011225-CH38-SW1)
 
 # Immutable
